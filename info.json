@@ -1,0 +1,11 @@
+{
+  "name": "Lucky Coin",
+  "website": "https://www.0xluckycoin.com/",
+  "description": "This is a simple and interesting contract You have a chance to get 1 BNB when contract tax reaches 1 BNB. Only need you hold more than 1M LUCKY",
+  "explorer": "https://bscscan.com/token/0x7b0066720b291cd063fd4053f5db8909c1d840d4",
+  "type": "BEP20",
+  "symbol": "LUCKY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7b0066720b291cd063fd4053f5db8909c1d840d4"
+}
